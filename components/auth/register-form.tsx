@@ -50,7 +50,7 @@ export function RegisterForm() {
 
       toast({
         title: "Registration successful!",
-        description: "Welcome to FoodConnect! Please verify your email.",
+        description: "Welcome to CampusDabba! Please verify your email.",
       })
 
       router.push("/auth/verify")

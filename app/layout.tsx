@@ -12,8 +12,8 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: {
-    default: "FoodConnect",
-    template: "%s | FoodConnect",
+    default: "CampusDabba",
+    template: "%s | CampusDabba",
   },
   description: "Connect with home cooks in your area",
 }
